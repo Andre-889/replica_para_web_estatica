@@ -1,0 +1,49 @@
+@import "bootstrap/scss/bootstrap";
+
+body {
+    
+}
+nav {
+    font-weight: bolder;
+}
+
+.nav-link {
+    color: rgb(25, 25, 25) !important;
+}
+
+.btn-outline-success {
+    --bs-btn-color: #ff556e;
+    --bs-btn-border-color: #ff556e;
+    --bs-btn-hover-bg: #ff556e;
+    --bs-btn-hover-border-color: #ff556e;
+    --bs-btn-active-bg: #ff556e;
+    --bs-btn-active-border-color: #ff556e;
+    --bs-btn-disabled-color: #ff556e;
+    --bs-btn-disabled-border-color: #ff556e;
+}
+.btn-primary {
+    --bs-btn-bg: #ff556e;
+    --bs-btn-border-color: #ff556e;
+    --bs-btn-hover-bg: #ff556e;
+    --bs-btn-hover-border-color: #ff556e;
+    --bs-btn-active-bg: #ff556e;
+    --bs-btn-active-border-color: #ff556e;
+    --bs-btn-disabled-bg: #ff556e;
+    --bs-btn-disabled-border-color: #ff556e;
+}
+
+.radius-button {
+    border-radius: 25px;
+}
+
+.active {
+    color: #ff556e !important;
+}
+
+.banner {
+    text-align: center;
+}
+
+.img-banner {
+    width:100%;
+}
